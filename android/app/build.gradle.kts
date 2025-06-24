@@ -8,7 +8,7 @@ plugins {
 android {
     namespace = "com.example.tatehama_trainradio"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -16,7 +16,8 @@ android {
     }
 
     kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_11.toString()
+        jvmTarget = "11"
+        freeCompilerArgs += listOf("-Xjvm-default=all")
     }
 
     defaultConfig {
@@ -41,4 +42,9 @@ android {
 
 flutter {
     source = "../.."
+}
+
+// Set Kotlin JVM toolchain version for compatibility (e.g., with flutter_web_auth_2)
+kotlin {
+    jvmToolchain(11)
 }

@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+data
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:32:17-87
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:40:13-63
+	android:host
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:32:65-84
+	android:scheme
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:32:23-64
+	android:mimeType
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:57:19-48
+manifest
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:1:1-60:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f8e47dcd34e7e0249250c764329130c6/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/0f448994e490bf59f20aa19226509e50/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7d2f64d943f17384c796e08d8919a9f5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4a06d06ec0ce1c73cc8df2ae11f0f21f/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/c2bb4cddb87481b6b754c0fdd3839a9b/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/3159bb33404aa6a4b2af9e21283225fe/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f7f4d97ca6096ff71c5c6ae646320077/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/cd11675fd12f2b61e3226fc18ce65a58/transformed/jetified-activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/026eaf91a704f686abc435b9c478bb2d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/92e25ebfa9da2ff8052a055da0acd6ca/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/0d0d5f17a702e8a6097024f40b22f428/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/a7fb8764cf2a3c8bb3e574a4175c444a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/afec9dc0bcc11d087323dc11f5e0350a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/ee817ed912dd87a9ffe7b0d8087b9e11/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d2f89760d0d7afc020c36efe677962c0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d21df4d1a80ec9bf2502ed8e05d37297/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/df95e149204d983cb4c11efbc84ab4c1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/ee531b38ae54cb474462f6278bef0ac4/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/08d6944c906bcd30c9d42a63993176cf/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7f734b899c9b5bcf473e5c8a79b68b93/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/52855fc0fbe0c4bad698bc8826768045/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/75c83f2d7389a25cc7b203a659b59948/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/828d4efd681da9aa1e71de71d61cbaad/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d5d38a58858f010a29bd1f22903acccf/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/84d9a4b8c1dd9a345613101bc4f77e24/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/3ef02704b71f9533625e5003a9da126d/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7f6d4d2ca89bf1a162879335265e8e72/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4cfa7aabd0ff8beb21daa4d12f46b519/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/1ea03ff4645f48d24e3fb5a42281310d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dc56adcbf17b642cc8bc810bfcbda96d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f3b8632830106ae874bd20aa567485d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/85879f220671a879b538e8ef16ed1744/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4f0453c5e86b0a8526375ff6965ad4f5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/1d33f966f1aab687e952d4b7cce6845e/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/a58c138301656e62a00a9163f21e3a54/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/cb263d6c3807b4994a64a61fe4ea2bcf/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/b7f63da0fad92ba134922d35b82d48c3/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:2:5-66
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:2:22-64
+application
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:3:5-48:19
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:3:5-48:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f8e47dcd34e7e0249250c764329130c6/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f8e47dcd34e7e0249250c764329130c6/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7d2f64d943f17384c796e08d8919a9f5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7d2f64d943f17384c796e08d8919a9f5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f3b8632830106ae874bd20aa567485d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f3b8632830106ae874bd20aa567485d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/85879f220671a879b538e8ef16ed1744/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/85879f220671a879b538e8ef16ed1744/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:4:9-44
+	android:icon
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:6:9-43
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:5:9-40
+activity#com.example.tatehama_trainradio.MainActivity
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:7:9-34:20
+	android:launchMode
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:14:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:15:13-55
+	android:exported
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:13:13-163
+	android:theme
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:12:13-47
+	android:taskAffinity
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:20:13-23:17
+	android:resource
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:22:15-52
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:21:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:26:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:auth+data:scheme:tatehama
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:28:13-33:29
+action#android.intent.action.VIEW
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:30:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:31:27-75
+activity#com.linusu.flutter_appauth.CallbackActivity
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:35:78-101
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:35:19-77
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tatehama
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:36:11-41:27
+	android:label
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:36:26-57
+meta-data#flutterEmbedding
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:45:9-47:33
+	android:value
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:47:13-30
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:46:13-44
+queries
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:54:5-59:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:55:9-58:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:56:13-72
+	android:name
+		ADDED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml:56:21-70
+uses-sdk
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f8e47dcd34e7e0249250c764329130c6/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f8e47dcd34e7e0249250c764329130c6/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/0f448994e490bf59f20aa19226509e50/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/0f448994e490bf59f20aa19226509e50/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7d2f64d943f17384c796e08d8919a9f5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7d2f64d943f17384c796e08d8919a9f5/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4a06d06ec0ce1c73cc8df2ae11f0f21f/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4a06d06ec0ce1c73cc8df2ae11f0f21f/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/c2bb4cddb87481b6b754c0fdd3839a9b/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/c2bb4cddb87481b6b754c0fdd3839a9b/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/3159bb33404aa6a4b2af9e21283225fe/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/3159bb33404aa6a4b2af9e21283225fe/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f7f4d97ca6096ff71c5c6ae646320077/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f7f4d97ca6096ff71c5c6ae646320077/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/cd11675fd12f2b61e3226fc18ce65a58/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/cd11675fd12f2b61e3226fc18ce65a58/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/026eaf91a704f686abc435b9c478bb2d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/026eaf91a704f686abc435b9c478bb2d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/92e25ebfa9da2ff8052a055da0acd6ca/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/92e25ebfa9da2ff8052a055da0acd6ca/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/0d0d5f17a702e8a6097024f40b22f428/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/0d0d5f17a702e8a6097024f40b22f428/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/a7fb8764cf2a3c8bb3e574a4175c444a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/a7fb8764cf2a3c8bb3e574a4175c444a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/afec9dc0bcc11d087323dc11f5e0350a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/afec9dc0bcc11d087323dc11f5e0350a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/ee817ed912dd87a9ffe7b0d8087b9e11/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/ee817ed912dd87a9ffe7b0d8087b9e11/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d2f89760d0d7afc020c36efe677962c0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d2f89760d0d7afc020c36efe677962c0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d21df4d1a80ec9bf2502ed8e05d37297/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d21df4d1a80ec9bf2502ed8e05d37297/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/df95e149204d983cb4c11efbc84ab4c1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/df95e149204d983cb4c11efbc84ab4c1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/ee531b38ae54cb474462f6278bef0ac4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/ee531b38ae54cb474462f6278bef0ac4/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/08d6944c906bcd30c9d42a63993176cf/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/08d6944c906bcd30c9d42a63993176cf/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7f734b899c9b5bcf473e5c8a79b68b93/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7f734b899c9b5bcf473e5c8a79b68b93/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/52855fc0fbe0c4bad698bc8826768045/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/52855fc0fbe0c4bad698bc8826768045/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/75c83f2d7389a25cc7b203a659b59948/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/75c83f2d7389a25cc7b203a659b59948/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/828d4efd681da9aa1e71de71d61cbaad/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/828d4efd681da9aa1e71de71d61cbaad/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d5d38a58858f010a29bd1f22903acccf/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/d5d38a58858f010a29bd1f22903acccf/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/84d9a4b8c1dd9a345613101bc4f77e24/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/84d9a4b8c1dd9a345613101bc4f77e24/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/3ef02704b71f9533625e5003a9da126d/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/3ef02704b71f9533625e5003a9da126d/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7f6d4d2ca89bf1a162879335265e8e72/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/7f6d4d2ca89bf1a162879335265e8e72/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4cfa7aabd0ff8beb21daa4d12f46b519/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4cfa7aabd0ff8beb21daa4d12f46b519/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/1ea03ff4645f48d24e3fb5a42281310d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/1ea03ff4645f48d24e3fb5a42281310d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dc56adcbf17b642cc8bc810bfcbda96d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dc56adcbf17b642cc8bc810bfcbda96d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f3b8632830106ae874bd20aa567485d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f3b8632830106ae874bd20aa567485d8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/85879f220671a879b538e8ef16ed1744/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/85879f220671a879b538e8ef16ed1744/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4f0453c5e86b0a8526375ff6965ad4f5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/4f0453c5e86b0a8526375ff6965ad4f5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/1d33f966f1aab687e952d4b7cce6845e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/1d33f966f1aab687e952d4b7cce6845e/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/a58c138301656e62a00a9163f21e3a54/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/a58c138301656e62a00a9163f21e3a54/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/cb263d6c3807b4994a64a61fe4ea2bcf/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/cb263d6c3807b4994a64a61fe4ea2bcf/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/b7f63da0fad92ba134922d35b82d48c3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/b7f63da0fad92ba134922d35b82d48c3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yumasuzuki/GitHub/tatehama_trainradio/android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/85879f220671a879b538e8ef16ed1744/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/85879f220671a879b538e8ef16ed1744/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/2f9e30b92e09a4c79f34f925067bc407/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.example.tatehama_trainradio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.tatehama_trainradio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/5250d48f22b009412a3af5bf87ec0439/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/yumasuzuki/.gradle/caches/8.12/transforms/f1a2b792c1adea3036d914d4bf6e89f3/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/yumasuzuki/.gradle/caches/8.12/transforms/dd60d7c5c757fd4a020cec9f061a2a5a/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
