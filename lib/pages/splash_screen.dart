@@ -84,16 +84,12 @@ class _SplashScreenState extends State<SplashScreen> {
       );
       _processUri(Uri.parse(result));
     } on PlatformException catch (e) {
-      // ユーザーがキャンセルしたことを、より正確に検知
       if (e.code == 'CANCELED' || e.code == 'USER_CANCELLED') {
-        print('認証がユーザーによってキャンセルされました: $e');
         _setErrorState(-2, '認証がキャンセルされました。');
       } else {
-        print('認証中にプラットフォームエラーが発生しました: $e');
         _setErrorState(-105, '認証フローを開始できませんでした。');
       }
     } catch (e) {
-      print('不明なエラーが発生しました: $e');
       _setErrorState(-99, '不明なエラーが発生しました。');
     }
   }
@@ -103,21 +99,25 @@ class _SplashScreenState extends State<SplashScreen> {
         _setErrorState(-2, '認証がキャンセルされました。');
         return;
     }
-
-    if (uri.scheme == 'tatehama-trainradio' && uri.host == 'auth-success') {
-      final token = uri.queryParameters['token'];
-      if (token != null) {
-        _processSuccessToken(token);
-      } else {
-        _setErrorState(-102, '認証トークンが見つかりませんでした。');
-      }
-    } else if (uri.scheme == 'tatehama-trainradio' && uri.host == 'auth-failure') {
-      final error = uri.queryParameters['error'];
+    
+    // ★★★ エラーハンドリングロジックを修正 ★★★
+    // 常に auth-success で返ってくるので、まず error パラメータの有無を確認する
+    final error = uri.queryParameters['error'];
+    if (error != null) {
       if (error == 'not_in_guild') {
         _setErrorState(403, '指定されたサーバーに参加していません。');
       } else {
-        _setErrorState(-103, '認証に失敗しました。');
+        _setErrorState(-103, '認証に失敗しました。($error)');
       }
+      return;
+    }
+
+    // error パラメータがなければ、token を探す
+    final token = uri.queryParameters['token'];
+    if (token != null) {
+      _processSuccessToken(token);
+    } else {
+      _setErrorState(-102, '認証トークンが見つかりませんでした。');
     }
   }
 
