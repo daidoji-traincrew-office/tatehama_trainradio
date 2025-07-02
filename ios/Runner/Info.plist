@@ -45,22 +45,27 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
-    
-    <!-- ここからが追加した部分です -->
-    <key>CFBundleURLTypes</key>
-    <array>
-        <dict>
-            <key>CFBundleTypeRole</key>
-            <string>Editor</string>
-            <key>CFBundleURLName</key>
-            <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
-            <key>CFBundleURLSchemes</key>
-            <array>
-                <string>tatehama-trainradio</string>
-            </array>
-        </dict>
-    </array>
-    <!-- ここまでが追加した部分です -->
-    
+	
+	<!-- Discord認証コールバック用の設定 -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>tatehama-trainradio</string>
+			</array>
+		</dict>
+	</array>
+
+	<!-- ★★★ ここからが追加した部分です ★★★ -->
+	<!-- QRコード読み取りのためのカメラ使用許可 -->
+	<key>NSCameraUsageDescription</key>
+	<string>QRコードを読み取ってPC版と連携するためにカメラを使用します。</string>
+	<!-- ★★★ ここまでが追加した部分です ★★★ -->
+
 </dict>
 </plist>
